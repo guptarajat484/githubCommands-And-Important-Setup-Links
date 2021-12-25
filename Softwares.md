@@ -36,3 +36,8 @@
 
 #### https://www.pgadmin.org/download/pgadmin-4-apt/
 
+## Gitk
+
+#### 1) sudo apt update
+
+#### 2) sudo apt install gitk
