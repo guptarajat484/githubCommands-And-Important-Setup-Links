@@ -19,3 +19,9 @@
 ## 9) REST Client
 
 ## 10) Palenight Theme
+
+## 11) EsLint
+
+## 12) Prettier
+
+## 13) docker
