@@ -1,6 +1,21 @@
 # GitHub Commands
 
 
+## ssh-keygen -t rsa -b 4096 -C "example@example.com"
+
+
+#### Generate Your SSH Key
+
+
+## eval $(ssh-agent -s)
+
+
+## ssh-add ~/.ssh/id_rsa 
+
+
+#### open id_<>.pub file copy key and paste into github account.
+
+
 ## git init 
 
 
