@@ -31,5 +31,3 @@
 ## 15) Import cost
 
 ## 16) Path Intellisense.
-
-## 17) 
