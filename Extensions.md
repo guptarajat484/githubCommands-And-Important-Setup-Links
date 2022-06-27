@@ -25,3 +25,11 @@
 ## 12) Prettier
 
 ## 13) docker
+
+## 14) Error Lense
+
+## 15) Import cost
+
+## 16) Path Intellisense.
+
+## 17) 
